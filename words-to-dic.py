@@ -14,5 +14,5 @@ def convert_wordlist_to_unicode_dic(input_file, output_file):
     print(f"Unicode .dic file created: {output_file}")
 
 # Usage
-convert_wordlist_to_unicode_dic(r"C:\Users\AKBH\Desktop\words.txt", r"C:\Users\AKBH\Desktop\english.dic")
+convert_wordlist_to_unicode_dic(r"words.txt", r"english.dic")
 
